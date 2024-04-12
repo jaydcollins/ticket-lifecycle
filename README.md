@@ -15,7 +15,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://github.com/kphillip1/ticket-lifecycle/assets/165929885/13f0066f-d2e6-4c76-82a4-c24d73edd90b" height="80%" width="80%"/>
+<img width="799" alt="image" src="https://github.com/jaydcollins/ticket-lifecycle/assets/164976272/75819f83-0527-4daf-88e4-c043c949bbde">
 </p>
 
 - Create your first ticket by visiting localhost/osTicket and select open a ticket.
@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://github.com/kphillip1/ticket-lifecycle/assets/165929885/af9cbeec-4b3c-4e10-86b7-6d0180c89e43" height="80%" width="80%" />
+<img width="464" alt="image" src="https://github.com/jaydcollins/ticket-lifecycle/assets/164976272/e3fcda7c-14bf-4d4f-9b60-628ea6ac2e96">
 </p>
 
 - Log back in as an Admin and view the tickets
@@ -46,7 +46,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://github.com/kphillip1/ticket-lifecycle/assets/165929885/1bb85232-0352-484f-acfd-a24d7625f64c" height="80%" width="80%" />
+<img width="923" alt="image" src="https://github.com/jaydcollins/ticket-lifecycle/assets/164976272/46967eec-5285-43d0-9617-862e647ea71d">
 </p>
 
 - This ticket is severe and business critical
@@ -63,7 +63,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://github.com/kphillip1/ticket-lifecycle/assets/165929885/1d6cd41e-0c9f-4359-a630-eacc00205152" height="80%" width="80%"/>
+<img width="923" alt="image" src="https://github.com/jaydcollins/ticket-lifecycle/assets/164976272/e619fb13-a45e-4dd9-8364-d577afc85d2f">
 </p>
 
 - If you go back to the ticketing menu you can see the ticket we just edited appear at the top of list with a updated priority and assignee
@@ -74,7 +74,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://github.com/kphillip1/ticket-lifecycle/assets/165929885/ebfb0616-70e8-40e7-92f6-f4d321360065" height="80%" width="80%" />
+<img width="605" alt="image" src="https://github.com/jaydcollins/ticket-lifecycle/assets/164976272/a25c307d-64f4-496d-ab73-da8fb97227e2">
 </p>
 
 - Log back in as an Admin and resolve the ticket
