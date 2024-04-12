@@ -85,4 +85,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-<h2 align="center"> Nice work! We now know how to create, work, and resolve tickets in osTicket </h2>
+<h2 align="center"> Success! We now know how to create, work, and resolve tickets in osTicket </h2>
